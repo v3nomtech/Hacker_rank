@@ -6,7 +6,7 @@ Feel free to fork this repository, open issues, or create pull requests. I welco
 📧 Contact
 If you have any questions or want to connect, feel free to reach out:
 
-Email: venomtechofficial@gmail.com
-LinkedIn: www.linkedin.com/in/venomtech
+Email: venomtechofficial@gmail.com <br>
+LinkedIn: www.linkedin.com/in/venomtech <br>
 Happy coding! 😊
 
